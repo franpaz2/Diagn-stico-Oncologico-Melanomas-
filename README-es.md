@@ -55,7 +55,7 @@ El modelo fue calibrado con un umbral de probabilidad personalizado (~0.47) para
 
 ---
 
-## 🚀 Cómo ejecutar en local
+## Cómo ejecutar en local
 
 Para replicar el entorno, probar inferencias o evaluar el preprocesamiento ABCDE:
 
