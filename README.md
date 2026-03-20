@@ -55,7 +55,7 @@ The model was calibrated with a custom probability threshold (~0.47) to maximize
 
 ---
 
-## 🚀 How to run locally
+## How to run locally
 
 To replicate the environment, test inferences, or evaluate the ABCDE preprocessing:
 
